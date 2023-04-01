@@ -1,0 +1,22 @@
+Comment,Designator,Footprint,LCSC Part #
+"1u Unpolarized capacitor, small symbol","C1,C2,C5,C6",C_0402_1005Metric,C52923
+"100n Unpolarized capacitor, small symbol","C3,C4,C7,C8,C9,C10,C11,C12,C13,C16,C17,C18",C_0402_1005Metric,C307331
+"30p Unpolarized capacitor, small symbol","C14,C15",C_0402_1005Metric,C1570
+D Diode,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16",D_SOD-123,C81598
+LED Light emitting diode,D17,LED_0805_2012Metric,C2297
+"B5819W SL 40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323",D18,D_SOD-123,C8598
+"TLC-PSMD050 Resettable fuse, polymeric positive temperature coefficient, small symbol",F1,Fuse_0805_2012Metric,C261942
+"100@100MHz Ferrite bead, small symbol",FB1,L_0805_2012Metric,C1015
+"1k Resistor, small symbol","R1,R6",R_0402_1005Metric,C11702
+"27 Resistor, small symbol","R2,R3",R_0402_1005Metric,C25771
+"10k Resistor, small symbol","R4,R5",R_0402_1005Metric,C25744
+"1k5 Resistor, small symbol",R7,R_0402_1005Metric,C25867
+"5k1 Resistor, small symbol","R8,R9",R_0402_1005Metric,C25905
+RP2040TR7 ,U1,QFN40P700X700X90-57N,C2040
+"XC6206PxxxMR Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23",U2,SOT-23,C5446
+"W25Q128JVS 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",U3,SOIC-8_5.23x5.23mm_P1.27mm,C97521
+BOOT ,U4,tactile-switch,C318884
+RESET ,U5,tactile-switch,C318884
+TYPE-C-31-M-12 ,U6,simple-usb-c,C165948
+PEC11R-4215F-S0024 ,"U7,U8",PEC11R-4215F-S0024,
+"12MHz Four pin crystal, GND on pins 2 and 4",Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C9002
